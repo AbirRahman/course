@@ -1,2 +1,0 @@
-# course
-e-learning
